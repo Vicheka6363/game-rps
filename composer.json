@@ -1,5 +1,5 @@
 {
-    "name": "vendor/paperrockscissorsgame",
+    "name": "acheu/paperrockscissorsgame",
     "description": "A Paper, Rock, Scissors game package for Laravel.",
     "type": "library",
     "license": "MIT",
@@ -19,4 +19,5 @@
             ]
         }
     }
+
 }
